@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<layouts>
+  <layout>
+    <!-- Use the default state -->
+    <state>-1</state>
+
+    <display enabled="true" defaultDisplay="true">
+      <address>4614449806218072320</address>
+    </display>
+
+    <display enabled="true" defaultDisplay="false" displayGroup="passenger_display1">
+      <address>4620250800518949377</address>
+    </display>
+
+    <display enabled="true" defaultDisplay="false" displayGroup="passenger_display2">
+      <address>4619195921270301697</address>
+    </display>
+
+    <display enabled="true" defaultDisplay="false" displayGroup="passenger_display3">
+      <address>4620250800518949378</address>
+    </display>
+  </layout>
+</layouts>
